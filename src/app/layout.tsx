@@ -9,7 +9,7 @@ const font = JetBrains_Mono({
 
 export const metadata: Metadata = {
    title: "ez-Generator",
-   description: "Created by @Mhnxzy",
+   description: "Generate random strings with custom options",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
